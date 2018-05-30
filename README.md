@@ -1,4 +1,4 @@
-# Listing ENS Contract Events with Jupyter
+# Listing ENS Contract Events with Jupyter Docs
 
 ![ENS](https://www.easydns.com/blog/wp-content/uploads/2017/09/ensheader-261x300.png)
 
@@ -16,7 +16,7 @@ If you want to learn more about ENS, go to [their website](https://ens.domains/)
 
 ## Quick Start
 
-Follow this link to interact with the [Jupyter notebook](https://hub.mybinder.org/user/pkafei-smart-co-ts-with-jupyter-wifuo1ed/notebooks/bidReveal.ipynb#), or you can view the notebook [within this repo](https://github.com/pkafei/Smart-Contract-Events-with-Jupyter/blob/master/bidReveal.ipynb).
+Follow this link to interact with the [Jupyter notebook](https://hub.mybinder.org/user/pkafei-smart-co-ts-with-jupyter-hgglkgma/notebooks/bidReveal.ipynb), or you can view the notebook [within this repo](https://github.com/pkafei/Smart-Contract-Events-with-Jupyter/blob/master/bidReveal.ipynb).
 <br />
 
 If you are new to Jupyter, [their documentation](https://jupyter-notebook.readthedocs.io/en/stable/) will get you up and running right away!
